@@ -1,0 +1,14 @@
+{
+  "bindings": [
+    {
+      "type": "cosmosDBTrigger",
+      "name": "input",
+      "direction": "in",
+      "leaseCollectionName": "leases",
+      "connectionStringSetting": "ItemsTrigger_ConnectionString",
+      "databaseName": "ToDoList",
+      "collectionName": "Items",
+      "createLeaseCollectionIfNotExists": true
+    }
+  ]
+}

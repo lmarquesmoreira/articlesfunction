@@ -1,0 +1,18 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "ItemsTrigger_ConnectionString": "AccountEndpoint=https://articlesdb02.documents.azure.com:443/;AccountKey=EhvQgvndYubS0NawvFB1MAkYvGEBQnXFf8eKTVEDEGHryUpxYNOzdRfpsNDjGaDIaDvNtDzizsrmNTJbGPxCMg==;",
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "~1",
+    "WEBSITE_ENCRYPTION_KEY": "qBnTkSHIBzZ46cMnUy1CogabjGkMPyvOkRlo5ixjAAo=",
+    "ScmType": "None",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=articlesstorage;AccountKey=dBcIlU7UhfYDEPDnomgB10aCg37IzXMWyfASmTcFz5h1TkUbjl5zHJ066K1Q7IvvzofhutpgzhYvbL74Ka2DDg==",
+    "WEBSITE_NODE_DEFAULT_VERSION": "6.5.0",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=articlesstorage;AccountKey=dBcIlU7UhfYDEPDnomgB10aCg37IzXMWyfASmTcFz5h1TkUbjl5zHJ066K1Q7IvvzofhutpgzhYvbL74Ka2DDg==",
+    "WEBSITE_CONTENTSHARE": "articlesfunction9c15",
+    "WEBSITE_SITE_NAME": "articlesfunction",
+    "articlesdb02_DOCUMENTDB": "AccountEndpoint=https://articlesdb02.documents.azure.com:443/;AccountKey=EhvQgvndYubS0NawvFB1MAkYvGEBQnXFf8eKTVEDEGHryUpxYNOzdRfpsNDjGaDIaDvNtDzizsrmNTJbGPxCMg==;",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=articlesstorage;AccountKey=dBcIlU7UhfYDEPDnomgB10aCg37IzXMWyfASmTcFz5h1TkUbjl5zHJ066K1Q7IvvzofhutpgzhYvbL74Ka2DDg=="
+  }
+}

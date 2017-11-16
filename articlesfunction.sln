@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 15.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "articlesfunction", "articlesfunction.csproj", "{5B5F65D9-A0CC-475F-97D3-DD85A6FEDF0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B5F65D9-A0CC-475F-97D3-DD85A6FEDF0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B5F65D9-A0CC-475F-97D3-DD85A6FEDF0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B5F65D9-A0CC-475F-97D3-DD85A6FEDF0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B5F65D9-A0CC-475F-97D3-DD85A6FEDF0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
