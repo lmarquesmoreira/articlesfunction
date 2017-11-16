@@ -1,5 +1,9 @@
 {
   "IsEncrypted": false,
+  "Host": {
+    "LocalHttpPort": 7071,
+    "CORS": "*"
+  },
   "Values": {
     "ItemsTrigger_ConnectionString": "AccountEndpoint=https://articlesdb02.documents.azure.com:443/;AccountKey=EhvQgvndYubS0NawvFB1MAkYvGEBQnXFf8eKTVEDEGHryUpxYNOzdRfpsNDjGaDIaDvNtDzizsrmNTJbGPxCMg==;",
     "WEBSITE_SLOT_NAME": "Production",

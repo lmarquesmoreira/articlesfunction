@@ -6965,11 +6965,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lmmoreira/Downloads/articlesfunction/articlesfunction.csproj",
+      "projectUniqueName": "/Users/lmmoreira/Source/SQLSaturday Demo/articlesfunction/articlesfunction.csproj",
       "projectName": "articlesfunction",
-      "projectPath": "/Users/lmmoreira/Downloads/articlesfunction/articlesfunction.csproj",
+      "projectPath": "/Users/lmmoreira/Source/SQLSaturday Demo/articlesfunction/articlesfunction.csproj",
       "packagesPath": "/Users/lmmoreira/.nuget/packages/",
-      "outputPath": "/Users/lmmoreira/Downloads/articlesfunction/obj",
+      "outputPath": "/Users/lmmoreira/Source/SQLSaturday Demo/articlesfunction/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/lmmoreira/.config/NuGet/NuGet.Config"

@@ -1,8 +1,15 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workbench />
+﻿<Properties StartupConfiguration="{5B5F65D9-A0CC-475F-97D3-DD85A6FEDF0F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ArticlesF01/run.csx">
+    <Files>
+      <File FileName="ArticlesF01/run.csx" Line="12" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.articlesfunction PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/lmmoreira/Source/SQLSaturday Demo/articlesfunction/ItemsTrigger/run.csx" relfile="ItemsTrigger/run.csx" line="6" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
