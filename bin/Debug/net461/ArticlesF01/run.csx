@@ -1,10 +1,12 @@
  #r "Microsoft.Azure.Documents.Client"
+ #r "Newtonsoft.Json"
 using Microsoft.Azure.Documents;
 using Microsoft.Azure.Documents.Client;
 using System.Collections.Generic;
 using System;
 using System.Net;
-
+using System.Threading.Tasks;
+using Newtonsoft.Json;
 public static class Settings
 {
     public static string EndpointPrimary = @"https://articlesdb03.documents.azure.com:443/";

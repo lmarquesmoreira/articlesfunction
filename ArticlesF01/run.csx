@@ -7,6 +7,7 @@ using System;
 using System.Net;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
+
 public static class Settings
 {
     public static string EndpointPrimary = @"https://articlesdb03.documents.azure.com:443/";
@@ -120,8 +121,4 @@ public static async Task<HttpResponseMessage> Run(HttpRequestMessage req, TraceW
     }
 
     return req.CreateResponse(HttpStatusCode.OK, response);
-
-    // return name == null
-    //     ? req.CreateResponse(HttpStatusCode.BadRequest, "Please pass a name on the query string or in the request body")
-    //     : req.CreateResponse(HttpStatusCode.OK, "Hello " + name);
 }

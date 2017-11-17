@@ -84,20 +84,22 @@
 /Users/lmmoreira/Downloads/articlesfunction/obj/Debug/net461/articlesfunction.AssemblyInfo.cs
 /Users/lmmoreira/Downloads/articlesfunction/obj/Debug/net461/articlesfunction.dll
 /Users/lmmoreira/Downloads/articlesfunction/obj/Debug/net461/articlesfunction.pdb
+/Users/lmmoreira/Source/SQLSaturday Demo/articlesfunction/bin/Debug/net461/Microsoft.Azure.Documents.ServiceInterop.dll
+/Users/lmmoreira/Source/SQLSaturday Demo/articlesfunction/bin/Debug/net461/DocumentDB.Spatial.Sql.dll
 /Users/lmmoreira/Source/SQLSaturday Demo/articlesfunction/bin/Debug/net461/ArticlesF01/function.json
 /Users/lmmoreira/Source/SQLSaturday Demo/articlesfunction/bin/Debug/net461/ArticlesF01/run.csx
 /Users/lmmoreira/Source/SQLSaturday Demo/articlesfunction/bin/Debug/net461/host.json
-/Users/lmmoreira/Source/SQLSaturday Demo/articlesfunction/bin/Debug/net461/ItemsTrigger/function.json
-/Users/lmmoreira/Source/SQLSaturday Demo/articlesfunction/bin/Debug/net461/ItemsTrigger/run.csx
 /Users/lmmoreira/Source/SQLSaturday Demo/articlesfunction/bin/Debug/net461/local.settings.json
 /Users/lmmoreira/Source/SQLSaturday Demo/articlesfunction/bin/Debug/net461/articlesfunction.dll
 /Users/lmmoreira/Source/SQLSaturday Demo/articlesfunction/bin/Debug/net461/articlesfunction.pdb
 /Users/lmmoreira/Source/SQLSaturday Demo/articlesfunction/bin/Debug/net461/System.Net.Http.Formatting.dll
 /Users/lmmoreira/Source/SQLSaturday Demo/articlesfunction/bin/Debug/net461/System.Web.Http.dll
+/Users/lmmoreira/Source/SQLSaturday Demo/articlesfunction/bin/Debug/net461/Microsoft.Azure.Documents.Client.dll
 /Users/lmmoreira/Source/SQLSaturday Demo/articlesfunction/bin/Debug/net461/Microsoft.Azure.KeyVault.Core.dll
 /Users/lmmoreira/Source/SQLSaturday Demo/articlesfunction/bin/Debug/net461/Microsoft.Azure.WebJobs.Host.dll
 /Users/lmmoreira/Source/SQLSaturday Demo/articlesfunction/bin/Debug/net461/Microsoft.Azure.WebJobs.dll
 /Users/lmmoreira/Source/SQLSaturday Demo/articlesfunction/bin/Debug/net461/Microsoft.Azure.WebJobs.Extensions.dll
+/Users/lmmoreira/Source/SQLSaturday Demo/articlesfunction/bin/Debug/net461/Microsoft.Azure.WebJobs.Extensions.DocumentDB.dll
 /Users/lmmoreira/Source/SQLSaturday Demo/articlesfunction/bin/Debug/net461/Microsoft.Azure.WebJobs.Extensions.Http.dll
 /Users/lmmoreira/Source/SQLSaturday Demo/articlesfunction/bin/Debug/net461/Microsoft.Build.Framework.dll
 /Users/lmmoreira/Source/SQLSaturday Demo/articlesfunction/bin/Debug/net461/Microsoft.Build.Utilities.Core.dll

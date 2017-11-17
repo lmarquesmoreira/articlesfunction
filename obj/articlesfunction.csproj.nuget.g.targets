@@ -5,5 +5,6 @@
   </PropertyGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <Import Project="$(NuGetPackageRoot)microsoft.net.sdk.functions/1.0.0-alpha6/build/netstandard1.0/Microsoft.NET.Sdk.Functions.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.net.sdk.functions/1.0.0-alpha6/build/netstandard1.0/Microsoft.NET.Sdk.Functions.targets')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.azure.documentdb/1.19.1/build/Microsoft.Azure.DocumentDB.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.azure.documentdb/1.19.1/build/Microsoft.Azure.DocumentDB.targets')" />
   </ImportGroup>
 </Project>
