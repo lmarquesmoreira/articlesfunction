@@ -1,7 +1,7 @@
  #r "Microsoft.Azure.Documents.Client"
- #r "System.Web.Http"
  #r "Newtonsoft.Json"
 using Microsoft.Azure.Documents;
+using Microsoft.Azure.Documents.Client;
 using System.Collections.Generic;
 using System;
 using System.Net;
